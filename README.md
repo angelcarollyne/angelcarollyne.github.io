@@ -45,4 +45,4 @@ I am a product engineering graduate with a unique blend of product development a
 ## 📫 Let's Connect
 *   **Location:** Hong Kong[cite: 2]
 *   **Email:** angelcarollyne90@gmail.com[cite: 2]
-*   **LinkedIn:** [https://www.linkedin.com/in/angel-carollyne/]
+*   **LinkedIn:** https://www.linkedin.com/in/angel-carollyne/
