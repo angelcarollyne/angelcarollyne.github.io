@@ -1,7 +1,7 @@
 # 👩‍💻 Angel Carollyne 
 ### Unity VR Developer | Product Engineering & Marketing Graduate | Passionate about creating user-centered experiences with data-driven marketing skills
 
-> **"Bridging technical C# engineering with data-driven marketing to build high-impact XR solutions."**
+> **"Curious and adaptable quick learner with hands-on experience in Unity-based VR development. Always eager to explore new technologies and integrate them into user-focused product solutions."**
 
 ---
 
